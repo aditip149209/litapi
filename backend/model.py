@@ -11,7 +11,7 @@ from huggingface_hub import InferenceClient
 
 client = InferenceClient(
     provider="hf-inference",
-    api_key="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",
+    api_key="",
 )
 
 completion = client.chat.completions.create(
