@@ -1,0 +1,15 @@
+.vercel
+__pycache__
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info
+*.env
+*.env.*
+*.DS_Store
+*.log
+*.sqlite3
+*.db
+*.db-journal    
+*.pyc
